@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-322-leading-organizations-ii-fall-2003/7e37e71fdca2ebba47ff7660baf884c2_ses1_new_organization.pdf
+file: /media/courses/15-322-leading-organizations-ii-fall-2003/7e37e71fdca2ebba47ff7660baf884c2_ses1_new_organization.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ses1_new_organization.pdf
 uid: 7e37e71f-dca2-ebba-47ff-7660baf884c2

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-322-leading-organizations-ii-fall-2003/108a3c790ea35f30b0dd4d7700424148_ses6_power_and_networks.pdf
+file: /media/courses/15-322-leading-organizations-ii-fall-2003/108a3c790ea35f30b0dd4d7700424148_ses6_power_and_networks.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ses6_power_and_networks.pdf
 uid: 108a3c79-0ea3-5f30-b0dd-4d7700424148

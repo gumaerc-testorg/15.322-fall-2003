@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-322-leading-organizations-ii-fall-2003/a4a5231cc2230316f4f8a486f58061bd_ses9_mangaging_change.pdf
+file: /media/courses/15-322-leading-organizations-ii-fall-2003/a4a5231cc2230316f4f8a486f58061bd_ses9_mangaging_change.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ses9_mangaging_change.pdf
 uid: a4a5231c-c223-0316-f4f8-a486f58061bd
