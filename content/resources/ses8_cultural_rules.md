@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 85eb5cf3-e12a-a956-24ea-91f405b548e8
 resourcetype: Document
 title: ses8_cultural_rules.pdf
 uid: f2d2a293-a894-e74f-1805-37768fea1636

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 85eb5cf3-e12a-a956-24ea-91f405b548e8
 resourcetype: Document
 title: ses1_new_organization.pdf
 uid: 7e37e71f-dca2-ebba-47ff-7660baf884c2

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 85eb5cf3-e12a-a956-24ea-91f405b548e8
 resourcetype: Document
 title: ses6_power_and_networks.pdf
 uid: 108a3c79-0ea3-5f30-b0dd-4d7700424148

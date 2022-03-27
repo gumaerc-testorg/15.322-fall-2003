@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 85eb5cf3-e12a-a956-24ea-91f405b548e8
 resourcetype: Document
 title: ses9_mangaging_change.pdf
 uid: a4a5231c-c223-0316-f4f8-a486f58061bd
