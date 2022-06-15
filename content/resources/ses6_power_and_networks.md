@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-322-leading-organizations-ii-fall-2003/108a3c790ea35f30b0dd4d7700424148_ses6_power_and_networks.pdf
+file: /courses/15-322-leading-organizations-ii-fall-2003/108a3c790ea35f30b0dd4d7700424148_ses6_power_and_networks.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
