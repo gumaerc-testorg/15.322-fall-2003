@@ -5,6 +5,7 @@ file: /courses/15-322-leading-organizations-ii-fall-2003/7e37e71fdca2ebba47ff766
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
