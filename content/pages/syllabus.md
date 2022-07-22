@@ -1,16 +1,18 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times and readings.
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: efd442a9-4bc6-1b81-d8bb-61bc3a91d9db
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 1 session / week, 4 hours / session
 
-Course Overview
----------------
+## Course Overview
 
 Organizations are changing rapidly. To deal with these changes requires new skills and attitudes on the part of managers. The goal of the Leading Organizations course is to make you aware of this challenge and equip you to better meet it. In short, the purpose is to acquaint you with some of psychological and sociological phenomena that regularly occur in organizations – the less visible forces that influence employee and managerial behavior.
 
@@ -20,12 +22,11 @@ The subject is taught in a multi-method fashion. There will be lectures and read
 
 There will not be any examinations or letter grades (although it is possible to get a D or F). But there will be lots of feedback on the papers and in the learning groups. I expect all of you to do the readings and assignments in spite of the fact that I will not test you on them through the traditional methods. You will only get as much out of this subject as you invest in it. Much of the learning is what you can teach each other, so it will be up to everyone to attend all sessions and get fully involved.
 
-Students receive only one grade for 15.321, Leading Organizations I, and this course.
+Students receive only one grade for _15.321 Leading Organizations I_ and this course.
 
 Onward.
 
-Readings
---------
+## Readings
 
 _Books_
 
@@ -39,4 +40,4 @@ Course Binder. (Available at the campus copy center)
 
 Other, to be distributed in class.
 
-For a list of all readings by class session, see the [readings]({{< baseurl >}}/pages/readings) page.
+For a list of all readings by class session, see the {{% resource_link fa221bf8-42d4-322a-3b4c-9f5e3dddc416 "readings" %}} page.
