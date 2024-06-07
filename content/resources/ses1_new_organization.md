@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-322-leading-organizations-ii-fall-2003/7e37e71fdca2ebba47ff7660baf884c2_ses1_new_organization.pdf
+file_size: 44452
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

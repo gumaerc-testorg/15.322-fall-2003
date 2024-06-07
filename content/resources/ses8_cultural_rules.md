@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-322-leading-organizations-ii-fall-2003/f2d2a293a894e74f180537768fea1636_ses8_cultural_rules.pdf
+file_size: 41527
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
