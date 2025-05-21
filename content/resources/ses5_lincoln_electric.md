@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-322-leading-organizations-ii-fall-2003/e81c2fabfea1ab50bb1db94060a6d6b1_ses5_lincoln_electric.pdf
+file: /courses/15-322-leading-organizations-ii-fall-2003/e81c2fabfea1ab50bb1db94060a6d6b1_ses5_lincoln_electric.pdf
 file_size: 47878
 file_type: application/pdf
 learning_resource_types:
