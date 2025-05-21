@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-322-leading-organizations-ii-fall-2003/a4a5231cc2230316f4f8a486f58061bd_ses9_mangaging_change.pdf
+file: /courses/15-322-leading-organizations-ii-fall-2003/a4a5231cc2230316f4f8a486f58061bd_ses9_mangaging_change.pdf
 file_size: 27601
 file_type: application/pdf
 learning_resource_types:
